@@ -1,3 +1,3 @@
 module github.com/lallison21/algorithm_tasks
 
-go 1.23.2
+go 1.24.1
